@@ -5,3 +5,5 @@ $('#button-play').click(() => {
 $('#button-pause').click(() => {
     $('.carousel').carousel('pause');
 });
+
+alert('Bem vindo ao site');
